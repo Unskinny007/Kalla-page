@@ -1,11 +1,12 @@
 body {
-  background: linear-gradient(black, white);
+  
   margin: 0 !important;
 }
 
 #siusiak {
+  background: linear-gradient(black, white);
   width: 100%;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 #container {
