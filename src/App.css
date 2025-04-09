@@ -4,7 +4,7 @@
 }
 
 .header {
-  /* background-color: #282c34; */
+  background-color: #fff;
   min-height: 11vh;
   width: 100vw;
   display: flex;
@@ -13,7 +13,6 @@
   left: 0;
   justify-content: space-around;
   color: black;
-  padding-bottom: 20p;
   box-shadow: 0px 10px 10px -2px rgba(0, 0, 0, 0.1)
 }
 .logo h1 {
@@ -33,5 +32,13 @@
   margin-top: 20px;
   /* background-color: gray; */
   cursor: pointer;
+}
+
+/* Strona główna */
+.home{
+  margin-top: 11vh;
+  width: 100vw;
+  height: 100vh;
+  background-color: #ddd;
 }
 
